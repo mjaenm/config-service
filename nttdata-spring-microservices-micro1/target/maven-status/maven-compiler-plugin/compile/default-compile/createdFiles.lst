@@ -1,0 +1,5 @@
+com\nttdata\dtos\NTTDataMS1Dto.class
+com\nttdata\services\NTTDataMS1ServiceImpl.class
+com\nttdata\NttdataSpringMicroservicesMicro1Application.class
+com\nttdata\controllers\NTTDataMS1Controller.class
+com\nttdata\services\NTTDataMS1ServiceI.class
