@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: nttdata-taller-microservicios-eureka
+server:
+  port: 8761
+eureka:
+  server:
+   enableSelfPreservation: false
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+    
