@@ -1,0 +1,3 @@
+com\everis\bootcamp\server\domain\Person.class
+com\everis\bootcamp\server\WebfluxServerMicroApplication.class
+com\everis\bootcamp\server\web\PersonListController.class
